@@ -1,2 +1,1 @@
-# mysite-bootstrap
- 
+TinDog Starting Files

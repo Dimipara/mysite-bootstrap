@@ -1,0 +1,170 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {  
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;  
+    line-height: 1.1;  
+    font-weight: 900;
+}
+
+h2 {
+    /* font-family: "Montserrat-Bold"; */
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+#title {
+    background-color: #117181;
+    color: #fff;
+}
+
+/* Top level container */
+
+.container-fluid {
+    padding: 3% 15%;
+    overflow: hidden;
+}
+
+#row-top {
+    margin-bottom: -15%;
+}
+
+#row-top-left {
+    padding-top: 3%;
+}
+
+/* Title Image */
+
+#img-top {
+    position: relative;
+        left: 50px;
+    transform: rotate(25deg);
+    width: 60%;
+}
+
+ /* Navigation Bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    font-size: 1.3rem;
+    padding: 0 18px;
+}
+
+.navbar-brand {
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+/* Buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Second container */
+
+#features {
+    padding: 0% 15% 0% 15%;
+}
+
+.row-second .col-lg-4 {
+    text-align: center;
+    padding: 13% 0% 13% 0%;
+}
+
+/* Icons */
+
+.icon-mid {
+    font-size: 6rem;
+    padding-bottom: 5%;
+    color: #3e7e88;
+}
+
+.icon-mid:hover {
+    color: #55A5B6;
+}
+
+/* Testimonial section */
+
+#testimonials {
+    text-align: center;
+    background-color: #55A5B6;
+    color: #fff;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 15%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 25%;
+}
+
+#press {
+    background-color: #55A5B6;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+#pricing {
+    padding: 8% 17%;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+/* Call to Action */
+
+#cta {
+    background-color: #117181;
+    color: #fff;
+}
+
+#row-bottom {
+    padding: 3% 15%;
+    text-align: center;
+}
+
+.cta-text {
+    font-size: 3rem;
+    text-align: center;
+    padding: 3% 15%;
+}
+
+.download-button-bottom {
+    margin: 2% 4% 5% 0;
+}
+
+/* Footer */
+
+#footer {
+    padding: 2% 10%;
+    text-align: center;
+}
+
+.bottom-icon {
+    font-size: 1.5rem;
+    padding: 0% 1%;
+    margin-bottom: 2%;
+}
